@@ -4,5 +4,6 @@ source 'http://github.com/tmont/puppet-firstrun
 author 'tmont'
 license 'MIT'
 summary 'Initializes puppet the first time it's run'
-description 'Simple module for intializing a machine for its first puppet run'
+description 'Simple module for initializing a machine for its first puppet run'
 project_page 'http://github.com/tmont/puppet-firstrun
+
